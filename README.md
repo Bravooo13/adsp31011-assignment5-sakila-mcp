@@ -6,7 +6,7 @@ A Streamlit app and four-tool MCP server for the existing Sakila Snowflake wareh
 
 Use the Cloud Shell environment from Assignment 4 with Python 3.11 or newer, Claude Code signed in, and the existing Snowflake key connection named `claude`.
 
-Clone this private repository, then run:
+Clone this repository, then run:
 
 ```bash
 git clone https://github.com/Bravooo13/adsp31011-assignment5-sakila-mcp.git
