@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.secrets/
+*.p8
+*.pem
+config.toml
+connections.toml
+.streamlit/secrets.toml
+*.log
+live_check.json
+.DS_Store
